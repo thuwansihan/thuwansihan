@@ -22,7 +22,7 @@
 - 🌱 Exploring new technologies and frameworks
 - 🤝 Interested in collaborating on software projects
 - 📚 Always learning. Always building. 
-  yes offcourse
+  
 ---
 
 ## 🛠️ Skills & Technologies
